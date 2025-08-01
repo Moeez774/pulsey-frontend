@@ -1,0 +1,1 @@
+declare module '@joegesualdo/get-youtube-subtitles-node';
